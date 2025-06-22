@@ -1,4 +1,4 @@
-# Gemini Assignment Solutions
+# Assignment Solutions
 
 This repository contains the solutions for various assignments completed as part of the Gemini training program. Each assignment set is organized into its respective folder.
 
