@@ -12,7 +12,7 @@ This repository contains the solutions for various assignments completed as part
 - **Python Assignment** — Completed
 - **QA Processes** — Completed
 - **SDLC Assignment** — Completed
-- **Selenium Assignment** — *In Progress*
+- **Selenium Assignment** — Completed
 - **UFT Assignment** — Completed
 - **UiPath Assignment** — *In Progress*
 - **Unix Assignment** — Completed
